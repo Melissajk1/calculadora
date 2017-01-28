@@ -349,7 +349,7 @@ public class principal extends javax.swing.JFrame {
 
     private void puntoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_puntoActionPerformed
         // TODO add your handling code here:
-        
+        txtmuestra.setText(txtmuestra.getText()+".");
     }//GEN-LAST:event_puntoActionPerformed
 
     private void opsumaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_opsumaActionPerformed
